@@ -1,8 +1,4 @@
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
-}
+
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -10,6 +6,19 @@ body {
     width: 94%;
     margin: 3%;
     text-align: center;
+    background-color: lightblue;
+}
+
+@media screen and (min-width: 400px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    background-color: lavender;
+  }
 }
 
 p {
