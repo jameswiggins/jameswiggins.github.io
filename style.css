@@ -9,9 +9,9 @@ body {
     background-color: lightblue;
 }
 
-@media screen and (min-width: 500px) {
+@media  (max-width: 500px) {
     body {
-        background-color: black;
+        background-color: blue;
     }
 }
 
