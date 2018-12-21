@@ -9,10 +9,10 @@ body {
     background-color: lightblue;
 }
 
-@media screen and (max-width: 500px) {
-  body {
-    background-color: lightgreen;
-  }
+@media screen and (min-width: 500px) {
+    body {
+        background-color: black;
+    }
 }
 
 p {
@@ -46,9 +46,9 @@ a {
 }
 
 a:hover {
-  color: #2171b5;
+    color: #2171b5;
 }
 
 a:active {
-  color: grey;
+    color: grey;
 }
