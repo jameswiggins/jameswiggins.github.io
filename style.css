@@ -9,7 +9,7 @@ body {
     background-color: lightblue;
 }
 
-@media  (max-width: 500px) {
+@media  screen only {
     body {
         background-color: blue;
     }
