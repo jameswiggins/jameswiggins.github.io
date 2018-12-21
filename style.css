@@ -6,10 +6,10 @@ body {
     width: 94%;
     margin: 3%;
     text-align: center;
-    background-color: lightblue;
+    background-color: grey;
 }
 
-@media  screen only {
+@media only screen and (max-device-width: 480px)
     body {
         background-color: blue;
     }
