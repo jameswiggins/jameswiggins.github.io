@@ -1,0 +1,48 @@
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    width: 94%;
+    margin: 3%;
+    text-align: center;
+    background-color: grey;
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 950px;
+    font-size: 125%;
+}
+
+header {
+    margin-top: 5%;
+    font-size: 300%;
+    font-weight: 800;
+    font-family: "Open Sans";
+}
+
+nav {
+    font-size: 125%;
+    font-family: "Open Sans";
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2171b5;
+}
+
+a:active {
+    color: grey;
+}
