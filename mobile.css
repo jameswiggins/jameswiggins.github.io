@@ -1,5 +1,4 @@
 
-
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 500;
@@ -9,9 +8,6 @@ body {
 }
 
 p {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 950px;
     font-size: 250%;
 }
 
@@ -23,6 +19,7 @@ header {
 }
 
 nav {
+    margin-top: 5%;
     font-size: 250%;
     font-family: "Open Sans";
     font-weight: bold;
