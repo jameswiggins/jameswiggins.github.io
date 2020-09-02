@@ -30,6 +30,10 @@ nav {
     justify-content: space-around;
 }
 
+img {
+    max-width: 30px;
+}
+
 a {
     color: black;
     text-decoration: none;
