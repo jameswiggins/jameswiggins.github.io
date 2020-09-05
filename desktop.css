@@ -48,11 +48,13 @@ a:active {
     color: grey;
 }
 
+.gricon {
+    stroke-width: 20;
+}
+
 .icon {
     max-width: 50%;
 }
-
-
 
 .icons {
     margin-top: 1%;
