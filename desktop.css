@@ -1,11 +1,11 @@
-
-
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 500;
     width: 94%;
     margin: 3%;
     text-align: center;
+    background-color: #35363A;
+    color: #EEEEEE;
 }
 
 p {
@@ -21,6 +21,9 @@ header {
     font-weight: 800;
     font-family: "Open Sans";
 }
+header a{
+    color: #EEEEEE;
+}
 
 nav {
     margin-top: 1%;
@@ -33,6 +36,11 @@ nav {
     max-width: 500px;
     display: flex;
     justify-content: space-around;
+    color: #EEEEEE;
+}
+
+nav a{
+     color: #EEEEEE;
 }
 
 a {
@@ -49,11 +57,11 @@ a:active {
 }
 
 .icon {
-    max-width: 50%;
+    max-width: 35%;
 }
 
 .icons {
-    margin-top: 1%;
+    margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
     max-width: 500px;
@@ -67,9 +75,9 @@ svg {
 }
 
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color: #4CAF50;
   border: none;
-  color: white;
+  color: #EEEEEE;
   padding: 16px 32px;
   text-align: center;
   text-decoration: none;
@@ -83,7 +91,7 @@ svg {
 .resumebutton{
   margin-top: 3%;
   background-color: #2171b5; 
-  color: white; 
+  color: #EEEEEE; 
   border: 2px solid #2171b5;
   opacity: 0.8;
   border-radius: 4px;
