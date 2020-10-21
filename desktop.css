@@ -16,7 +16,7 @@ p {
 }
 
 header {
-    margin-top: 5%;
+    margin-top: 1%;
     font-size: 300%;
     font-weight: 800;
     font-family: "Open Sans";
@@ -58,6 +58,11 @@ a:active {
 
 .icon {
     max-width: 35%;
+}
+
+.avatar {
+    max-width: 15%;
+    border-radius: 50%;
 }
 
 .icons {
