@@ -109,3 +109,7 @@ a:active {
     border-radius: 60%;
     border: 3px solid #EEEEEE;
 }
+
+.content {
+  font-size: 80%;
+}
